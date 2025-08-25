@@ -76,3 +76,7 @@ Open Retail_sales_dashboard.pbix in Power BI Desktop to view insights.
 
 
 ```
+
+=======
+
+> > > > > > > 82134e4066b0eea75e44838979c3fd5c51f6fde5
