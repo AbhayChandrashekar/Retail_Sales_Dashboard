@@ -1,4 +1,4 @@
-# 🛒 Retail Sales Dashboard
+#  Retail Sales Dashboard
 
 An end-to-end data pipeline that **generates synthetic retail sales data**, **transforms it via ETL**, and **visualizes insights in Power BI**.
 
@@ -6,7 +6,7 @@ This project simulates real-world analytics workflows — from raw data to actio
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 | File                          | Purpose                                                             |
 | ----------------------------- | ------------------------------------------------------------------- |
@@ -57,7 +57,7 @@ This project simulates real-world analytics workflows — from raw data to actio
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 ### 1. Clone the repo
 
